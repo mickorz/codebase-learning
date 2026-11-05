@@ -1,5 +1,0 @@
-[package]
-name = "memory-core-mini"
-version = "0.1.0"
-edition = "2021"
-description = "codebase-learning stage-01 exercise: minimal reimplementation of ai-memory-core mechanisms"

@@ -1,0 +1,15 @@
+{
+  "name": "memory-core-mini",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "codebase-learning stage-01 exercise: minimal TS reimplementation of ai-memory-core mechanisms",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}
