@@ -9,7 +9,7 @@
 | Overview（概览） | DONE | 2026-11-10 | 00-overview.md |
 | Architecture（架构地图） | DONE | 2026-11-10 | 01-architecture.md, 02-module-map.md, 03-git-history.md |
 | Module（模块精读） | DONE | 2026-11-10 | modules/subagent-split-check.md, modules/evidence-first-review.md, modules/independent-review.md, modules/taste-to-checks.md |
-| Implement（重实现练习） | NOT STARTED | - | exercises/ |
+| Implement（重实现练习） | READY（stage-01 已布置，待学习者实现） | 2026-11-10 | exercises/stage-01.md, exercises/stage-01/ |
 | Assessment（测验） | NOT STARTED | - | quiz/ |
 
 ## 当前状态与下一步
