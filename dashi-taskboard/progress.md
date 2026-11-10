@@ -7,7 +7,7 @@
 | 2026-10-23 | Overview | 00-overview.md | 完成 |
 | 2026-10-23 | Architecture | 01-architecture.md, 02-module-map.md, 03-git-history.md | 完成 |
 | - | Module | modules/ | 未开始 |
-| - | Implement | exercises/ | 未开始 |
+| 2026-10-23 | Implement | exercises/stage-01.md + exercises/stage-01-optimistic-board/（脚手架 + 19 个验收测试就绪，待学习者实现） | 进行中 |
 | - | Assessment | quiz/assessment.md | 未开始 |
 
 ## 推荐学习路径
