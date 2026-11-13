@@ -1,0 +1,12 @@
+{
+  "type": "local-path",
+  "source_path": "E:\\WorkProjects\\PrdGameSkill\\source-code\\client\\Code",
+  "shell_path": "/e/WorkProjects/PrdGameSkill/source-code/client/Code",
+  "is_git_repo": true,
+  "head_commit": "db544fd68a3b8ac686a6a0d683ae65b49226e10f",
+  "branch": "main",
+  "remote_origin": "https://git.bianfeng.com/GameAbcTea_mobile/commonlobbyframe/client/cocoscreatorgame/Game_HZMahJong/Code.git",
+  "first_analyzed": "2026-11-10",
+  "project_name": "client-code",
+  "note": "名字推导：末段 Code 过于通用，按 skill v0.2.0 规则取路径最后两段 client/Code -> client-code"
+}
