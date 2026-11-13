@@ -8,5 +8,10 @@
   "remote_origin": "https://git.bianfeng.com/GameAbcTea_mobile/commonlobbyframe/client/cocoscreatorgame/Game_HZMahJong/Code.git",
   "first_analyzed": "2026-11-10",
   "project_name": "client-code",
-  "note": "名字推导：末段 Code 过于通用，按 skill v0.2.0 规则取路径最后两段 client/Code -> client-code"
+  "note": "名字推导：末段 Code 过于通用，按 skill v0.2.0 规则取路径最后两段 client/Code -> client-code",
+  "platform_source": {
+    "path": "E:\\WorkProjects\\Lobby\\xuanwulobby",
+    "head_commit": "d5a2b7dae2e701556e8f1358c11133630f60fd97",
+    "note": "host lobby project (commonlobbyframe/cocoscreatorlobby), VERIFIED source of the BaseGameController callback chain"
+  }
 }
