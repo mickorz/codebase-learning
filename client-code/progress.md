@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Overview（概览） | DONE | 2026-11-10 | 00-overview.md |
 | Architecture（架构地图） | NOT STARTED | - | 01-architecture.md |
-| Module（模块精读） | IN PROGRESS | 2026-11-10 | modules/game-controller.md（1/5） |
+| Module（模块精读） | IN PROGRESS | 2026-11-10 | modules/game-controller.md（1/5）, modules/layer-views.md（2/5） |
 | Implement（重实现练习） | NOT STARTED | - | exercises/ |
 | Assessment（测验） | NOT STARTED | - | quiz/ |
 
@@ -16,7 +16,7 @@
 
 Overview 完成（v0.2.0 本地路径流程首次实战验证通过：原地分析 + source-location.json 落盘）。
 
-Module 精读进行中：gameController 与 cmd 命令系已完成（1/5）。剩余候选：BoxHzmjMainView 视图层 / GameGlcProtocol 协议层 / GameData 数据层 / 复盘链。
+Module 精读进行中：gameController（1/5）、layer 视图层（2/5）已完成。剩余：GameGlcProtocol 协议层 / GameData 数据层 / 复盘链。
 
 ## 待用户决策
 
